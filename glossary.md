@@ -1,4 +1,5 @@
 MuleSoft Integration Architect’s Glossary
+
 A
 API-Led Connectivity – MuleSoft’s approach to integration that organizes APIs into three layers: System, Process, and Experience.
 Anypoint Platform – The unified platform for designing, building, deploying, and managing APIs and integrations.
